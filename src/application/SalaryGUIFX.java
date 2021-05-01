@@ -47,7 +47,7 @@ public class SalaryGUIFX extends Application {
       vBox.setSpacing(10);
       
       applicationStage.setScene(scene);   
-      applicationStage.setTitle("Salary"); 
+      applicationStage.setTitle("Simple Salary Calculation"); 
       applicationStage.show();             
    }
    
